@@ -18,10 +18,16 @@ body {
 }
 
 .button-container {
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
   background: #e3f4ff;
 }
 
 button {
+  padding: 5px;
+  display: block;
+  margin: 0 auto;
   background: white;
   border: 1px solid #eee;
 }
